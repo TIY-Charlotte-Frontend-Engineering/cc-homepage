@@ -1,0 +1,22 @@
+body {
+
+}
+
+h2 {
+    background-color: green;
+}
+
+/* This is a comment. */
+/* Element selector */
+h3 {
+    background-color: yellow;
+}
+/* Class selector */
+.quoter {
+
+}
+
+/* ID selector */
+#theguess {
+    
+}

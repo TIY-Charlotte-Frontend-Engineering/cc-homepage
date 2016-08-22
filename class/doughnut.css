@@ -1,0 +1,56 @@
+header {
+    background-color: green;
+    border: 2px solid black;
+    color: red;
+}
+
+/**
+ * CSS 'box model'
+ *   content (house)
+ *   padding (yard)
+ *   border (fence)
+ *   margin (street)
+ */
+
+ /**
+  * CSS display types
+  *  - block: greedy
+  *  - inline: bashful
+  *  - inline-block: juuuuuuust right
+  */
+
+nav ul {
+   list-style-type: none;
+   margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    padding: 1%;
+    font-size: .8em;
+    text-transform: uppercase;
+}
+
+section h1 {
+    padding: 70px 0 70px 0;
+    background-color: orange;
+    text-align: center;
+}
+
+.column-big {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+}
+
+.column-sm {
+    display: inline-block;
+    vertical-align: top;
+    width: 35%;
+}
+
+button {
+    background-color: pink;
+    border: 2px solid black;
+    padding: 10px;
+}
