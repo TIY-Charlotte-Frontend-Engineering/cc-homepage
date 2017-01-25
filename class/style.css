@@ -1,0 +1,19 @@
+/* This is a comment in CSS */
+
+/* 'header' is called a CSS selector */
+/* The items in the {} are called properties */
+header {
+    background-color: lightsalmon;
+    color: lawngreen;
+}
+
+main {
+    background-color: lawngreen;
+    color: lightsalmon;
+}
+
+/**
+ * Two types of CSS properties:
+ *   - Visual effects: colors, fonts, boldness, etc
+ *   - Layouts: width / height, columns, etc
+ */
