@@ -2,6 +2,7 @@
 The repository contains finished code from various HTML+CSS crash courses in Charlotte, NC. Note that this is finished code (not necessarily in the state where we finished in class), though we'll try to add comments to explain any important differences.
 
 Links to specific sessions:
+- [January 24, 2017 @ Packard Place](https://github.com/TIY-Charlotte-Frontend-Engineering/cc-homepage/tree/2017-01-24)
 - [August 16, 2016 @ Packard Place](https://github.com/TIY-Charlotte-Frontend-Engineering/cc-homepage/tree/2016-08-16)
 - [January 18, 2016 @ Tech Wildcatters, Dallas](https://github.com/TIY-Charlotte-Frontend-Engineering/cc-homepage/tree/2016-01-18)
 - [January 13, 2016 @ Packard Place](https://github.com/TIY-Charlotte-Frontend-Engineering/cc-homepage/tree/2016-01-14)
