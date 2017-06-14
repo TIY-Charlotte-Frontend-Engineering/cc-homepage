@@ -1,0 +1,36 @@
+/* Comments in CSS look different */
+
+/*
+    Every element is a combination of four boxes.
+
+    Innermost box is called the 'content box'
+    Next out is called the 'padding box'
+    Next out is the 'border box'
+    Outermost is the 'margin box'
+*/
+
+p { /* Element selector */
+    border: 2px solid black;
+    width: 20%;
+    padding: 50px;
+    margin: 5px;
+    display: inline-block;
+}
+
+/* Class selector (category) */
+.black {
+    background-color: black;
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+    color: black;
+}
+
+/*
+    Display types:
+        block: greedy (takes up entire line no matter how much space it needs)
+        inline: bashful (won't take up extra space)
+        inline-block: adjustable size, will share with others
+*/

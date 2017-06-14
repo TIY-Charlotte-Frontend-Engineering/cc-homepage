@@ -1,0 +1,25 @@
+/*
+    Codecademy
+    Treehouse
+    Khan Academy
+    learnlayout.com
+*/
+
+
+.header {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.sidebar {
+    display: inline-block;
+    width: 15%;
+    border: 1px solid black;
+}
+
+.content {
+    display: inline-block;
+    width: 82%;
+    border: 1px solid black;
+}
